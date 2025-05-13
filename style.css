@@ -103,6 +103,7 @@ body{
     color: transparent;
  }
  .banner .content h2 {
+    color:white;
     position: relative;
     bottom: -50px;
     left:35%;
